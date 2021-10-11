@@ -1,0 +1,17 @@
+
+$greyedOut:rgb(202, 202, 202);
+
+.d-flex{
+  display: flex;
+  gap: 15px;
+}
+.connectedUsers{
+color: $greyedOut;
+font-size: 14px;
+align-self: center;
+}
+.messageBlock{
+  padding: 1em;
+  border: 1px solid $greyedOut;
+  margin: 5px;
+}
